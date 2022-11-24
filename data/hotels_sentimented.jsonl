@@ -1,0 +1,160 @@
+[
+  {
+    "review": "Extremely old cabinets, phone was half broken and full of dust. Bathroom door was broken, bathroom floor was dirty and yellow. Bathroom tiles were falling off. Asked to change my room and the next room was in the same conditions.  \n\nThe most out of date and least maintained hotel i ever been on.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "Hotel Facilities": "Negative",
+      "Room Quality": "Negative"
+    }
+  },
+  {
+    "review": "We were not checked in timely. We got room with broken window, no light. Bathroom door was broken and kept on locking out on us. We had maintenance service pass midnite keeping us up.  Hotel smelled on smoke and marihuana. Unacceptable! Full refund requested. \nFront desk lady upon check out was rude.",
+    "sentiment": {
+      "Service": "Negative",
+      "Room Quality": "Negative",
+      "Hotel Facilities": "Negative"
+    }
+  },
+  {
+    "review": "Great experience for two teenagers. We would book again. Location good.",
+    "sentiment": {
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "Was overall a good stay. We decided last minute to stay another night. No one really went out of their way to help us stay in the same room so we had to check out and go to a new room. It’s okay tho I understand some of those things are out of some hands. It also worked out bec our first room’s AC didn’t seem to be working. If I had to complain about one thing, we got a “new” towel from the shower rack (folded) to dry off and the towel smelled like fresh vomit. That was pretty gross. Didn’t really have any other issues other than that. The hotel Is beautiful.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "AC": "Negative",
+      "Room Quality": "Positive",
+      "Service": "Negative"
+    }
+  },
+  {
+    "review": "Pool area was definitely a little run down and did not look like the pics online at all. Bathroom in the double room was kind of dumpy.",
+    "sentiment": {
+      "Pool": "Negative",
+      "Room Quality": "Negative"
+    }
+  },
+  {
+    "review": "Roof top's view is gorgeous and the lounge area is comfortable. The staff is very courteous and the location is great. The hotel is outdated and the shower need to be clean better. The air condition runs all the time and cannot be control by the temperature control setting.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "AC": "Negative",
+      "Room Quality": "Negative",
+      "Service": "Positive",
+      "View": "Positive",
+      "Hotel Facilities": "Positive"
+    }
+  },
+  {
+    "review": "First I was placed near the elevator where it was noises, the TV is not updated, the toilet was coming on and off. There was no temp control and my shower curtain smelled moldy. Not sure what happened to this place but only thing was a great location.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "AC": "Negative",
+      "Room Quality": "Negative",
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "This is a very well located hotel and it’s nice and clean. Would stay here again.",
+    "sentiment": {
+      "Cleaning": "Positive",
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "Hotel is horrendous. The room was dark and dirty. No toilet paper in the bathroom. Came here on a work trip and had zero access to WiFi even though their hotel claims to have WiFi service. I will NEVER return.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "WiFi": "Negative",
+      "Room Quality": "Negative",
+      "Service": "Negative"
+    }
+  },
+  {
+    "review": "The rooms are small but clean and comfortable. The front desk was really busy and the lines for check-in were very long but the staff handled each person in a professional and very pleasant way. We will stay there again.",
+    "sentiment": {
+      "Cleaning": "Positive",
+      "Service": "Positive"
+    }
+  },
+  {
+    "review": "The stay was very nice would stay again. The pool closes at 7 pm and doesn’t open till 11am m. That sucked. Also our wifi went out the entire last day we were there. Thats sucked too. Overall was a nice enough stay and I love the location.",
+    "sentiment": {
+      "Pool": "Negative",
+      "WiFi": "Negative",
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "Their duvets do not come with covers. Not sure if they wash or change them for every customer. I doubt that they buy new comforters for every guest. \nWifi is too slow and does not provide access in some parts of the room (the room is small).\nCustomer service is not very impressive. Housekeeping forgets to bring requested items.\nYou cannot use phone to connect with front desk or housekeeping. You will have to go downstairs to the front desk in person.\nHot water takes a long time to come.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "Hotel Facilities": "Negative",
+      "Room Quality": "Negative",
+      "Service": "Negative",
+      "WiFi": "Negative"
+    }
+  },
+  {
+    "review": "I will never stay here again. They said they didn’t have my booking and told me they couldn’t help me. I had to ask for a supervisor to assist me. They told me that my room wasn’t ready but 4 other ppl checked in and rooms were ready. They promised that they will call me when the room was ready and never did.The pool is a max capacity of 10. The rooms are not clean and bathroom smelled like the suer line. Ac didn’t work properly and didn’t have towels.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "AC": "Negative",
+      "Room Quality": "Negative",
+      "Service": "Negative",
+      "Pool": "Negative"
+    }
+  },
+  {
+    "review": "It's very convenient. Everything is right at your fingertips. Make sure you wear proper shoes for walking.",
+    "sentiment": {
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "Great location and friendly staff, the hotel is beautifully appointed, but it is a dump underneath the lipstick. Rooms are nice sized for NYC, but A/C didnt work in multiple different (3) rooms, showers don’t drain, no hot water in our first of three rooms and a horrible smell in the lobby and hallways for 2 days.",
+    "sentiment": {
+      "AC": "Negative",
+      "Room Quality": "Negative",
+      "Hotel Facilities": "Negative",
+      "Service": "Positive",
+      "Location": "Positive"
+    }
+  },
+  {
+    "review": "Just what we wanted clean comfy beds.convenient parking across street at Lincoln center. Walking distance to Central Park, museums and Times Square. Also close to metro.",
+    "sentiment": {
+      "Location": "Positive",
+      "Cleaning": "Positive"
+    }
+  },
+  {
+    "review": "The first room they gave us was abysmal--noisy, A/C didn't work properly. They moved us to another room which was a bit better, but no instructions on how to work the tv; one phone didn't work, they didn't give us new towels when asked and I could go on and on. The rooms definitely need major updating! For the price the value was not good.",
+    "sentiment": {
+      "AC": "Negative",
+      "Room Quality": "Negative",
+      "Hotel Facilities": "Negative",
+      "Service": "Negative"
+    }
+  },
+  {
+    "review": "The staff at Empire are very accommodating. However, the hotel rugs in the elevator and hallways were filthy. It is not just an old hotel. After trying two rooms, third time was a charm for a room that did not have a moldy smell.",
+    "sentiment": {
+      "Cleaning": "Negative",
+      "Hotel Facilities": "Negative",
+      "Room Quality": "Negative",
+      "Service": "Positive"
+    }
+  },
+  {
+    "review": "Location, location, location!  You are virtually steps away from Lincoln Center and a few more to Juliard. Then it’s a hop skip and jump to Central Park and Columbus Circle.\nThe lobby and door staff were exceptionally friendly and helpful. And special kudos to the cleaning staff. They didn’t miss a beat and kept our room and the hallways immaculately clean.\nThe wi-fi really sucks! Can’t believe they are allowed to claim it as an amenity.\nThe rooftop lounge allows you to overlook the wi-fi.",
+    "sentiment": {
+      "Location": "Positive",
+      "Cleaning": "Positive",
+      "WiFi": "Negative"
+    }
+  }
+]
