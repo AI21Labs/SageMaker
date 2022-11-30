@@ -1,4 +1,4 @@
-# Deploy AI21 Labs Models on AWS SageMaker
+# Deploy AI21 Labs Language Models on AWS SageMaker
 
 Examples for using Jurassic-1 models through Amazon SageMaker.
 
