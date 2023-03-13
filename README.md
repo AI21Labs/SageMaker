@@ -1,6 +1,6 @@
 # Deploy AI21 Labs Language Models on AWS SageMaker
 
-Examples for using Jurassic-1 models through Amazon SageMaker.
+Examples for using Jurassic-2 models through Amazon SageMaker.
 
 ## Installation
 
@@ -20,17 +20,17 @@ import ai21
 
 In order to use this library, you must configure your AWS credentials.
 
-All set up? Make your first interaction with Jurassic-1:
+All set up? Make your first interaction with Jurassic-2:
 
 ```python
 response = ai21.Completion.execute(
-    sm_endpoint="j1-grande",
-    prompt="To be or",
+    sm_endpoint="j2-grande",
+    prompt="To be, or",
     maxTokens=4,
 )
 
 print(response['completions'][0]['data']['text'])
-# not to be? That is the question
+# not to be: that is the question
 ```
 
 For more comprehensive quickstart guides, see:
