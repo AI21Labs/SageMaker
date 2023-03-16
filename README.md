@@ -35,7 +35,11 @@ print(response['completions'][0]['data']['text'])
 
 For more comprehensive quickstart guides, see:
 
-[Jurassic-1 Grande](J1_Grande_example_model_use.ipynb) | [Jurassic-1 Large](J1_Large_example_model_use.ipynb)
+[Jurassic-2 Jumbo Instruct](J2_JumboInstruct_example_model_use.ipynb) | [Jurassic-2 Jumbo](J2_Jumbo_example_model_use.ipynb)
+
+[Jurassic-2 Grande Instruct](J2_GrandeInstruct_example_model_use.ipynb) | [Jurassic-2 Grande](J2_Grande_example_model_use.ipynb)
+
+[Jurassic-2 Large](J2_Large_example_model_use.ipynb)
 
 ## Learn more
 
