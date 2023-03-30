@@ -26,7 +26,7 @@ All set up? Make your first interaction with Jurassic-2:
 response = ai21.Completion.execute(
     sm_endpoint="j2-grande",
     prompt="To be, or",
-    maxTokens=4,
+    maxTokens=4
 )
 
 print(response['completions'][0]['data']['text'])
