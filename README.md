@@ -47,6 +47,8 @@ For more comprehensive quickstart guides, see:
 
 [AI21 Summarize](AI21_Summarize_example_model_use.ipynb)
 
+[AI21 Contextual Answers](AI21_ContextualAnswers_example_model_use.ipynb)
+
 ## Learn more
 
 - [AI21 Studio website](http://www.ai21.com/studio)
