@@ -7,7 +7,7 @@ Examples for using Jurassic-2 models through Amazon SageMaker.
 You can install the package using pip:
 
 ```
-pip install -U "ai21[SM]"
+pip install -U "ai21[AWS]"
 ```
 
 And then import the package:
@@ -23,11 +23,10 @@ In order to use this library, you must configure your AWS credentials.
 All set up? Make your first interaction with Jurassic-2:
 
 ```python
-response = ai21.Completion.execute(
-    sm_endpoint="j2-grande",
-    prompt="To be, or",
-    maxTokens=4
-)
+response = ai21.Completion.execute(destination=ai21.SageMakerDestination("j2-ultra"),
+                                   prompt="To be, or",
+                                   maxTokens=4,
+                                   temperature=0)
 
 print(response['completions'][0]['data']['text'])
 # not to be: that is the question
@@ -37,17 +36,21 @@ For more comprehensive quickstart guides, see:
 
 #### Foundation models
 
-[Jurassic-2 Jumbo Instruct](J2_JumboInstruct_example_model_use.ipynb) | [Jurassic-2 Jumbo](J2_Jumbo_example_model_use.ipynb)
+[Jurassic-2 Ultra](J2_Ultra_example_model_use.ipynb)
 
-[Jurassic-2 Grande Instruct](J2_GrandeInstruct_example_model_use.ipynb) | [Jurassic-2 Grande](J2_Grande_example_model_use.ipynb)
+[Jurassic-2 Mid Instruct](J2_Mid_example_model_use.ipynb)
 
-[Jurassic-2 Large](J2_Large_example_model_use.ipynb)
+[Jurassic-2 Light](J2_Light_example_model_use.ipynb)
 
 ### Task-specific models
 
 [AI21 Summarize](AI21_Summarize_example_model_use.ipynb)
 
 [AI21 Contextual Answers](AI21_ContextualAnswers_example_model_use.ipynb)
+
+[AI21 Paraphrase](AI21_Paraphrase_example_model_use.ipynb)
+
+[AI21 Grammatical Error Correction (GEC)](AI21_GEC_example_model_use.ipynb)
 
 ## Learn more
 
